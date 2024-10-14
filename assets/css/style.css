@@ -785,7 +785,7 @@ img {
 /* Para dispositivos muito pequenos (até 450px) */
 @media screen and (max-width: 450px) {
     .apresentacao__img {
-        height: 300px;
+        height: 250px;
     }
     .apresentacao__data {
         grid-template-columns: 1fr;
