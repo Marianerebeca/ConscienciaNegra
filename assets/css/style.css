@@ -787,6 +787,11 @@ img {
     .apresentacao__img {
         height: 240px;
     }
+    
+    .imagem__description {
+        font-size: var(--large-font-size);
+    }
+
     .apresentacao__data {
         grid-template-columns: 1fr;
     }
