@@ -511,6 +511,7 @@ img {
 .imagem__card {
     position: relative;
     cursor: pointer;
+    
 }
 
 .imagem__img {
