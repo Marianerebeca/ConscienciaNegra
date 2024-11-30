@@ -31,8 +31,12 @@ Interface Amigável: Design intuitivo e responsivo para garantir uma experiênci
 
 
 🛠️ Tecnologias Utilizadas
+
 HTML5
+
 CSS3
+
+JavaScript
 
 🌟 Por que este projeto é especial?
 Este site nasceu de uma parceria entre educação e tecnologia, mostrando como a união de ambas pode empoderar e inspirar os estudantes a refletirem sobre questões sociais. O projeto reforça a importância de criar um ambiente onde as vozes das crianças sejam valorizadas
